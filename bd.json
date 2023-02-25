@@ -3,6 +3,7 @@
     {
       "nombre": "napolitana",
       "precio": "3000",
+      "img": "./assets/pizza.jpg",
       "id": 1
     },
     {
