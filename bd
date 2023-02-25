@@ -1,0 +1,26 @@
+{
+  "pizzas": [
+    {
+      "nombre": "napolitana",
+      "precio": "3000",
+      "id": 1
+    },
+    {
+      "nombre": "al molde",
+      "precio": "2000",
+      "id": 2
+    }
+  ],
+  "empanadas": [
+    {
+      "nombre": "de carne",
+      "precio": "1000",
+      "id": 1
+    },
+    {
+      "nombre": "de pollo",
+      "precio": "1000",
+      "id": 2
+    }
+  ]
+}
